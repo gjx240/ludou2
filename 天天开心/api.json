@@ -9,58 +9,11 @@
             "url": "./lives/①live(EXO).txt",
             "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}"
         },
-        {
-            "name": "②Live(IJK)",
-            "type": 0,
-            "url": "./lives/②Live(IJK).txt",
-            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}"
-        },
-        {
-            "name": "③猫TV线路(EXO)",
-            "type": 0,
-            "url": "./lives/③猫TV线路(EXO).txt",
-            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}"
-        },
-        {
-            "name": "④猫TV线路(IJK)",
-            "type": 0,
-            "url": "./lives/④猫TV线路(IJK).txt",
-            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}"
-        },
-        {
-            "name": "新AKTV港台",
-            "type": 0,
-            "url": "./lives/新AKTV港台.txt",
-            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}"
-        },
-        {
-            "name": "IPTV研究所",
-            "type": 0,
-            "url": "./lives/IPTV研究所.txt",
-            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
-        },
+
         {
             "name": "抖音、斗鱼、B站、YY、Afreeca、Youtube",
             "type": 0,
             "url": "./lives/抖音、斗鱼、B站、YY、Afreeca、Youtube.txt",
-            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}"
-        },
-        {
-            "name": "广东银河频道",
-            "type": 0,
-            "url": "./lives/广东银河频道.txt",
-            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}"
-        },
-        {
-            "name": "⑪V6明线路",
-            "type": 0,
-            "url": "./lives/⑪V6明线路.txt",
-            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}"
-        },
-        {
-            "name": "②⑥范明线路",
-            "type": 0,
-            "url": "./lives/②⑥范明线路.txt",
             "epg": "https://epg.112114.eu.org/?ch={name}&date={date}"
         },
         {

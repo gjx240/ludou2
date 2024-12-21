@@ -1,10 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="免费订阅" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="•温馨「提示」",维护时间：2024-11-30 #佛系维护...
-https://epg.iill.top/v/302.mp4
-#EXTINF:-1 tvg-name="免费订阅" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="•温馨「提示」",维护内容：维护 Live「增加 Twitch 直播代理」
-https://epg.iill.top/v/301.mp4
-#EXTINF:-1 tvg-name="免费订阅" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="•温馨「提示」",公告说明：在线主播更新周期:15分钟·按需刷新订阅即可.
-https://epg.iill.top/v/301.mp4
+#EXTINF:-1 tvg-name="免费订阅" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="•温馨「提示」",维护时间：2024-11-30 #
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="•游戏「赛事」",「B站」热门赛事
 http://dns.yiandrive.com:16813/bilibili/10
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="•游戏「赛事」",「B站」CS 2

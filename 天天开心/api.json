@@ -1,3 +1,5 @@
+//关注微信公众号：奇奇乐分享，发送“本地包”，获取本地包更新链接与图文教程。
+
 {
     "spider": "./spider.jar",
     "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
@@ -323,9 +325,9 @@
             "filterable": 1,
             "changeable": 1,
             "ext": {
-                "token": "file://TV/token.txt",
-                "cookie": "file://TV/quark.txt",
-                "uc_cookie": "file://TV/uc.txt",
+                "token": "./txt/tok.txt",
+                "cookie": "./txt/quark.txt",
+                "uc_cookie": "./txt/uc.txt",
                 "site": "https://libvio.link",
                 "danmu": true
             },
@@ -1425,9 +1427,9 @@
             "filterable": 1,
             "changeable": 1,
             "ext": {
-                "token": "file://TV/token.txt",
-                "cookie": "file://TV/quark.txt",
-                "uc_cookie": "file://TV/uc.txt",
+                "token": "./txt/tok.txt",
+                "cookie": "./txt/quark.txt",
+                "uc_cookie": "./txt/uc.txt",
                 "site": "http://www.mogg.top/",
                 "danmu": true
             },
@@ -1442,9 +1444,9 @@
             "filterable": 1,
             "changeable": 1,
             "ext": {
-                "token": "file://TV/token.txt",
-                "cookie": "file://TV/quark.txt",
-                "uc_cookie": "file://TV/uc.txt",
+                "token": "./txt/tok.txt",
+                "cookie": "./txt/quark.txt",
+                "uc_cookie": "./txt/uc.txt",
                 "wogg": true,
                 "danmu": true
             },
@@ -1459,9 +1461,9 @@
             "filterable": 1,
             "changeable": 1,
             "ext": {
-                "token": "file://TV/token.txt",
-                "cookie": "file://TV/quark.txt",
-                "uc_cookie": "file://TV/uc.txt",
+                "token": "./txt/tok.txt",
+                "cookie": "./txt/quark.txt",
+                "uc_cookie": "./txt/uc.txt",
                 "site": "https://mihdr.top",
                 "danmu": true
             },
@@ -1476,9 +1478,9 @@
             "filterable": 1,
             "changeable": 1,
             "ext": {
-                "token": "file://TV/token.txt",
-                "cookie": "file://TV/quark.txt",
-                "uc_cookie": "file://TV/uc.txt",
+                "token": "./txt/tok.txt",
+                "cookie": "./txt/quark.txt",
+                "uc_cookie": "./txt/uc.txt",
                 "site": "https://vip.omii.top/",
                 "danmu": true
             },
@@ -1493,9 +1495,9 @@
             "filterable": 1,
             "changeable": 1,
             "ext": {
-                "token": "file://TV/token.txt",
-                "cookie": "file://TV/quark.txt",
-                "uc_cookie": "file://TV/uc.txt",
+                "token": "./txt/tok.txt",
+                "cookie": "./txt/quark.txt",
+                "uc_cookie": "./txt/uc.txt",
                 "site": "https://woog.nxog.top/",
                 "danmu": true
             },
@@ -1510,9 +1512,9 @@
             "filterable": 1,
             "changeable": 1,
             "ext": {
-                "token": "file://TV/token.txt",
-                "cookie": "file://TV/quark.txt",
-                "uc_cookie": "file://TV/uc.txt",
+                "token": "./txt/tok.txt",
+                "cookie": "./txt/quark.txt",
+                "uc_cookie": "./txt/uc.txt",
                 "site": "http://labipan.com/",
                 "danmu": true
             },
@@ -1527,9 +1529,9 @@
             "filterable": 1,
             "changeable": 1,
             "ext": {
-                "token": "file://TV/token.txt",
-                "cookie": "file://TV/quark.txt",
-                "uc_cookie": "file://TV/uc.txt",
+                "token": "./txt/tok.txt",
+                "cookie": "./txt/quark.txt",
+                "uc_cookie": "./txt/uc.txt",
                 "site": "https://yunpan.yunpay.cc/",
                 "danmu": true
             },
@@ -1544,9 +1546,9 @@
             "filterable": 1,
             "changeable": 1,
             "ext": {
-                "token": "file://TV/token.txt",
-                "cookie": "file://TV/quark.txt",
-                "uc_cookie": "file://TV/uc.txt",
+                "token": "./txt/tok.txt",
+                "cookie": "./txt/quark.txt",
+                "uc_cookie": "./txt/uc.txt",
                 "site": "https://4k.4u4.cn/",
                 "danmu": true
             },
@@ -1617,7 +1619,7 @@
             "filterable": 0,
             "indexs": 0,
             "ext": {
-                "token": "file://TV/token.txt",
+                "token": "./txt/tok.txt",
                 "share": "./json/阿里集合.json"
             },
             "style": {
@@ -1634,7 +1636,7 @@
             "filterable": 1,
             "changeable": 0,
             "ext": {
-                "token": "file://TV/token.txt",
+                "token": "./txt/tok.txt",
                 "danmu": true
             },
             "timeout": 15
@@ -1648,7 +1650,7 @@
             "filterable": 0,
             "changeable": 0,
             "ext": {
-                "token": "file://TV/token.txt",
+                "token": "./txt/tok.txt",
                 "danmu": true
             },
             "timeout": 15
@@ -1662,7 +1664,7 @@
             "filterable": 0,
             "changeable": 0,
             "ext": {
-                "token": "file://TV/token.txt",
+                "token": "./txt/tok.txt",
                 "danmu": true
             },
             "timeout": 15
@@ -1676,7 +1678,7 @@
             "filterable": 1,
             "changeable": 0,
             "ext": {
-                "cookie": "file://TV/quark.txt",
+                "cookie": "./txt/quark.txt",
                 "danmu": true
             },
             "timeout": 15
@@ -1690,7 +1692,7 @@
             "filterable": 1,
             "changeable": 0,
             "ext": {
-                "cookie": "file://TV/quark.txt",
+                "cookie": "./txt/quark.txt",
                 "danmu": true
             },
             "timeout": 15
@@ -1704,7 +1706,7 @@
             "filterable": 1,
             "changeable": 0,
             "ext": {
-                "cookie": "file://TV/quark.txt",
+                "cookie": "./txt/quark.txt",
                 "danmu": true,
                 "site": "https://www.misou.fun"
             },
@@ -1719,7 +1721,7 @@
             "filterable": 1,
             "changeable": 0,
             "ext": {
-                "cookie": "file://TV/quark.txt",
+                "cookie": "./txt/quark.txt",
                 "danmu": true
             },
             "timeout": 15
@@ -1733,8 +1735,8 @@
             "filterable": 0,
             "changeable": 0,
             "ext": {
-                "token": "file://TV/token.txt",
-                "cookie": "file://TV/quark.txt",
+                "token": "./txt/tok.txt",
+                "cookie": "./txt/quark.txt",
                 "danmu": true
             },
             "timeout": 15
@@ -1748,8 +1750,8 @@
             "filterable": 0,
             "changeable": 0,
             "ext": {
-                "token": "file://TV/token.txt",
-                "cookie": "file://TV/quark.txt",
+                "token": "./txt/tok.txt",
+                "cookie": "./txt/quark.txt",
                 "danmu": true
             },
             "timeout": 15
@@ -1763,9 +1765,9 @@
             "filterable": 0,
             "changeable": 0,
             "ext": {
-                "token": "file://TV/token.txt",
-                "cookie": "file://TV/quark.txt",
-                "uc_cookie": "file://TV/uc.txt",
+                "token": "./txt/tok.txt",
+                "cookie": "./txt/quark.txt",
+                "uc_cookie": "./txt/uc.txt",
                 "danmu": true
             },
             "timeout": 5
@@ -1780,7 +1782,7 @@
             "filterable": 0,
             "indexs": 0,
             "ext": {
-                "token": "file://TV/token.txt"
+                "token": "./txt/tok.txt"
             },
             "style": {
                 "type": "list"
@@ -1797,7 +1799,7 @@
             "filterable": 0,
             "indexs": 0,
             "ext": {
-                "cookie": "file://TV/quark.txt"
+                "cookie": "./txt/quark.txt"
             },
             "style": {
                 "type": "list"
@@ -1814,7 +1816,7 @@
             "filterable": 0,
             "indexs": 0,
             "ext": {
-                "uc_cookie": "file://TV/uc.txt"
+                "uc_cookie": "./txt/uc.txt"
             },
             "style": {
                 "type": "list"
@@ -1845,7 +1847,7 @@
                 "ratio": 1.433
             },
             "ext": {
-                "cookie": "file://TV/bilibili.txt",
+                "cookie": "./txt/bili_cookie.txt",
                 "json": "./json/哔哩戏曲.json"
             },
             "timeout": 20
@@ -1863,7 +1865,7 @@
                 "ratio": 1.433
             },
             "ext": {
-                "cookie": "file://TV/bilibili.txt",
+                "cookie": "./txt/bili_cookie.txt",
                 "json": "./json/哔哩相声.json"
             },
             "timeout": 20
@@ -1881,7 +1883,7 @@
                 "ratio": 1.433
             },
             "ext": {
-                "cookie": "file://TV/bilibili.txt",
+                "cookie": "./txt/bili_cookie.txt",
                 "json": "./json/哔哩综合.json"
             },
             "timeout": 20
@@ -1899,7 +1901,7 @@
                 "ratio": 1.433
             },
             "ext": {
-                "cookie": "file://TV/bilibili.txt",
+                "cookie": "./txt/bili_cookie.txt",
                 "json": "./json/演唱会.json"
             },
             "timeout": 20
@@ -1917,7 +1919,7 @@
                 "ratio": 1.433
             },
             "ext": {
-                "cookie": "file://TV/bilibili.txt",
+                "cookie": "./txt/bili_cookie.txt",
                 "json": "./json/女团热舞.json"
             },
             "timeout": 20
@@ -1935,7 +1937,7 @@
                 "ratio": 1.433
             },
             "ext": {
-                "cookie": "file://TV/bilibili.txt"
+                "cookie": "./txt/bili_cookie.txt"
             },
             "timeout": 10
         },
@@ -1952,7 +1954,7 @@
                 "ratio": 1.433
             },
             "ext": {
-                "cookie": "file://TV/bilibili.txt",
+                "cookie": "./txt/bili_cookie.txt",
                 "json": "./txt/哔哩合集.txt"
             },
             "timeout": 20
@@ -1970,7 +1972,7 @@
                 "ratio": 1.433
             },
             "ext": {
-                "cookie": "file://TV/bilibili.txt",
+                "cookie": "./txt/bili_cookie.txt",
                 "json": "./json/学习园地.json"
             },
             "timeout": 20
@@ -1988,7 +1990,7 @@
                 "ratio": 1.433
             },
             "ext": {
-                "cookie": "file://TV/bilibili.txt",
+                "cookie": "./txt/bili_cookie.txt",
                 "json": "./json/学外语.json"
             },
             "timeout": 20
@@ -2596,8 +2598,3 @@
         }
     ]
 }
-此页面的语言为英语
-翻译为 
-随时将英语翻译为
-一律不翻译英语
-一律不翻译raw.githubusercontent.com
